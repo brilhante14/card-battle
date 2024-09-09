@@ -1,3 +1,9 @@
+## Installation instructions
+
+```shellscript
+npm i
+```
+
 ## Run instructions
 
 ```shellscript
